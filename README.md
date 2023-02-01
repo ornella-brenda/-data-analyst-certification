@@ -2,7 +2,7 @@
 
 This is my case study to obtain my certification as a data analyst associate from datacamp
 
-#Structure
+Structure
 
 1.Data exploration 
 

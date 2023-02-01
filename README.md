@@ -6,8 +6,10 @@ This is my case study to obtain my certification as a data analyst associate fro
 
 1.Data exploration 
 
-2.Data validation
+2.Data cleaning
 
-3.Data visualization
+3.Data validation
 
-4.Data communication
+4.Data visualization
+
+5.Data communication
